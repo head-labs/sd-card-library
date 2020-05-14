@@ -1,3 +1,5 @@
+⚠️ **Not actively maintained** ⚠️
+
 SD Card Library Photon Compat
 ===
 
