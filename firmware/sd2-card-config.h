@@ -18,7 +18,7 @@
 /* Select output device for print() function */
 #	define SERIAL_DEVICE	0				/* 0:SerialUSB  1=: Serial UART device */
 #	if SERIAL_DEVICE == 0  	
-#		define Serial Serial				/* Use USB CDC port */
+//#		define Serial Serial				/* Use USB CDC port */
 #		define BPS_9600		/* Nothing */ 
 #		define BPS_115200 	/* Nothing */ 
 #	else
